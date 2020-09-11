@@ -31,7 +31,7 @@
     "aws-cli": "^0.0.2",
     "babel-runtime": "^6.26.0",
     "moment": "^2.24.0",
-    "node-fetch": "^2.3.0",
+    "node-fetch": "^2.6.1",
     "serverless-plugin-split-stacks": "^1.7.2",
     "source-map-support": "^0.4.18",
     "stripe": "^5.8.0",
